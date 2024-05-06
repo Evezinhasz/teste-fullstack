@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayk\\source\\repos\\teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\entidades\\formaspgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\entidades\\formaspgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\entidades\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\entidades\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\modelos\\clientenovomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\modelos\\clientenovomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\entidades\\cliente.acoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\entidades\\cliente.acoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\entidades\\cliente.validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\entidades\\cliente.validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|c:\\users\\ayk\\source\\repos\\teste\\teste.server\\teste.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EDDE553-D905-4578-A5C0-CE980128AECA}|teste.Server\\teste.Server.csproj|solutionrelative:teste.server\\teste.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\cliente.cs",
+              "RelativeDocumentMoniker": "teste.Server\\Entidades\\cliente.cs",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\cliente.cs",
+              "RelativeToolTip": "teste.Server\\Entidades\\cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:49:16.501Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cliente.validacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\cliente.validacoes.cs",
+              "RelativeDocumentMoniker": "teste.Server\\Entidades\\cliente.validacoes.cs",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\cliente.validacoes.cs",
+              "RelativeToolTip": "teste.Server\\Entidades\\cliente.validacoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:57:07.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteNovoModelo.cs",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\modelos\\ClienteNovoModelo.cs",
+              "RelativeDocumentMoniker": "teste.Server\\modelos\\ClienteNovoModelo.cs",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\modelos\\ClienteNovoModelo.cs",
+              "RelativeToolTip": "teste.Server\\modelos\\ClienteNovoModelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:41:21.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cliente.acoes.cs",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\cliente.acoes.cs",
+              "RelativeDocumentMoniker": "teste.Server\\Entidades\\cliente.acoes.cs",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\cliente.acoes.cs",
+              "RelativeToolTip": "teste.Server\\Entidades\\cliente.acoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:24:49.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\pedidos.cs",
+              "RelativeDocumentMoniker": "teste.Server\\Entidades\\pedidos.cs",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\pedidos.cs",
+              "RelativeToolTip": "teste.Server\\Entidades\\pedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:50:00.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "produto.cs",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\produto.cs",
+              "RelativeDocumentMoniker": "teste.Server\\Entidades\\produto.cs",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\produto.cs",
+              "RelativeToolTip": "teste.Server\\Entidades\\produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:49:40.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formaspgt.cs",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\formaspgt.cs",
+              "RelativeDocumentMoniker": "teste.Server\\Entidades\\formaspgt.cs",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Entidades\\formaspgt.cs",
+              "RelativeToolTip": "teste.Server\\Entidades\\formaspgt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:54:05.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "teste.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\teste.Server.csproj",
+              "RelativeDocumentMoniker": "teste.Server\\teste.Server.csproj",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\teste.Server.csproj",
+              "RelativeToolTip": "teste.Server\\teste.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T00:14:52.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Program.cs",
+              "RelativeDocumentMoniker": "teste.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Ayk\\source\\repos\\teste\\teste.Server\\Program.cs",
+              "RelativeToolTip": "teste.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:44:32.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
